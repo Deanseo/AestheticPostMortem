@@ -1,6 +1,6 @@
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 #+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="center.css"/>
-#+HTML_HEAD: <style> #content{max-width:900px;}</style>
+#+HTML_HEAD: <style> #content{max-width:950px;}</style>
 #+TITLE: A Korean Tiger Balm Mistaken for Acne Cure in Singapore
 #+AUTHOR: David Kimbell
 #+DATE:  [2024-10-19 토]
@@ -30,13 +30,13 @@ In fact, applying it to the face can be downright harmful.
 Unlike skincare products with AHA and BHA acids that might cause a mild burning sensation while effectively treating acne,
 this menthol-infused rub offers no such benefits and is actually bad for your skin, not to mention a _potential permanant damage in your eyes_!
 
-* Manufacturer Warns: "Not for Facial Use"
+* ⚠️ Manufacturer Warns: "Not for Facial Use" 
 Since the product is explicitly designed for muscle relaxation, the manufacturer warns that applying it to facial skin may cause serious irritation and redness.
 It's clinically dangerous especially when used around the eyes.
 
 #+ATTR_HTML: :width 500px :class center
 [[file:images/desc3.png]]
-/Note the product description advising customers *not* to use it for a face in the red rectangle./
+/The product description advising customers to use it for a muscle relaxation of your body/.
 
 While some acne treatments might give you a /similar/ 'burning sensation' due to active ingredients like AHA and BHA acids, menthol itself provides no benefits for acne treatment and can harm sensitive facial areas.
 
@@ -47,17 +47,41 @@ AHA (alpha hydroxy acid) and BHA (beta hydroxy acid) creams are skincare staples
 Menthol doesn't offer any benefits for acne-prone skin and can actually irritate your face, especially around sensitive areas like the eyes.
 So even though both might make your skin feel tingly, AHA/BHA acids are your complexion's friends, while menthol creams are best left for muscle relief.
 
-* why does it happen (draft)
+* 💸 When Cost Cuts Go Too Far: The Story Behind the Beauty Mishap
+Why did this miscommunication happen among the 'experts'?
+
+It's baffling how a skincare shop staffed with professionals could mistake a muscle-relaxing balm for an acne solution.
+Here are a couple of likely reasons behind this slip-up:
+
+** Cost-Driven Decisions by Senior Management
+In the pursuit of higher profits, senior management prioritizes cost reduction over quality.
+By purchasing products like the 28 SGD, 500ml tiger balm, they can reduce expenses and increase margins.
+
+#+ATTR_HTML: :width 500px :class center
+[[file:images/price2.png]]
+/Dr. Hedison's Refresh Cool Emulsion is approximately  =28.87 SGD=  for 500ml, and  =22 SGD=  for 200ml/.
+
+Sadly, many customers are blind about what's being applied to their skin, letting the 'experts' make choices for them.
+
+The thraphists on the call indeed confessed that they had been requesting to stop purchasing cheap products for long.
+But the managements didn't take into a serious condieration, which we'll talk about in the next item.
+
+** Disconnect Between Management and Therapists
+There's often a gap between those who select the products and those who use them on clients.
+The problem is that the therapists, who interact directly with customers, have little say in product selection.
+
 #+ATTR_HTML: :width 250px :class center
 [[file:images/product1.jpeg]]
 /A theraphist at the shop proudly introducing their new 'acne solution' to customers/.
 
+They are obliged to use what's provided, which can dampen their enthusiasm for ensuring customer satisfaction.
+Instead of personalizing treatments, they might end up robotically following protocols set by management.
 
 * Join our Telegram channel! ✅
 We're looking for anyone who previously had any discomfort or skin irritation after a traetment.
-Please share your experience through [[https://t.me/sgskinreport][our Telegram channel]] and seek for help!.
+Please share your experience through [[https://t.me/sgskinreport][our Telegram channel]] and seek for help!
 
-We're also working on an accout in Instagram to share pictures of damaged skins due to the misuse of the products.
+We're also working on an *Instagram* accout to share pictures of damaged skins due to the misuse of the products.
 Please make a request via Telegram for an invitation to our Instagram account.
 
 
