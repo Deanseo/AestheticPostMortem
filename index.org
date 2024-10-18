@@ -1,89 +1,17 @@
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 #+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="center.css"/>
 #+HTML_HEAD: <style> #content{max-width:950px;}</style>
-#+TITLE: A Korean Tiger Balm Mistaken for Acne Cure in Singapore
+#+TITLE: Draft
 #+AUTHOR: David Kimbell
 #+DATE:  [2024-10-19 토]
 #+options: timestamp:nil
 #+OPTIONS: num:nil
 
-* 🤦 /Lost in Translation: How Korea's cheap menthol-cream for a muscle rub became a viral skincare mishap/.
-Who would have thought that a simple mistranslation could lead to a skincare fiasco?
+* Hello
 
-In a surprising twist, [[https://www.leenayoung.com.sg][a famous aesthetic shop]] in Singapore, Lee Na Young Aesthetic, has been buzzing for all the wrong reasons.
-The shop mistakenly touted a [[https://search.shopping.naver.com/catalog/25254130524?cat_id=50000408&frm=NVSCPRO&query=%ED%97%A4%EB%94%94%EC%8A%A8+%EB%A6%AC%ED%94%84%EB%A0%88%EC%89%AC+%EC%BF%A8+%EC%97%90%EB%A9%80%EC%A0%84+200ml&NaPm=ct%3Dm27eduqg%7Cci%3D7064723f3fba0bc96c9c15404a276793b7f87328%7Ctr%3Dsls%7Csn%3D95694%7Chk%3D5d00c3bbc6a418036a24ea3891474b39c6849d03][big-sized, budget-friendly]] Korean tiger balm, priced at just =23 SGD= for a bottle as a premium acne solution from Korea.
-
-#+ATTR_HTML: :width 250px :class center
-[[file:images/entrance.png]]
-/Lee Na Young Aesthetic in Orchard welcoming customers/. 
-
-Allegedly due to a mistranslation of the word "emulsion", the muscle-relaxing tiger balm was misunderstood to be a skincare miracle.
-Little did they know, this menthol-loaded product is anything but suitable for delicate facial skin.
-
-Eager customers hoping to banish blemishes ended up facing serious skin irritations instead.
-
-#+ATTR_HTML: :width 250px :class center
-[[file:images/face.png]]
-/The balm, designed for muscle relaxation and rich in strong menthol scents, has no clinical impact on acne/.
-
-In fact, applying it to the face can be downright harmful.
-Unlike skincare products with AHA and BHA acids that might cause a mild burning sensation while effectively treating acne,
-this menthol-infused rub offers no such benefits and is actually bad for your skin, not to mention a _potential permanant damage in your eyes_!
-
-* ⚠️ Manufacturer Warns: "Not for Facial Use" 
-Since the product is explicitly designed for muscle relaxation, the manufacturer warns that applying it to facial skin may cause serious irritation and redness.
-It's clinically dangerous especially when used around the eyes.
-
-#+ATTR_HTML: :width 500px :class center
-[[file:images/desc3.png]]
-/The product description advising customers to use it for a muscle relaxation of your body/.
-
-While some acne treatments might give you a /similar/ 'burning sensation' due to active ingredients like AHA and BHA acids, menthol itself provides no benefits for acne treatment and can harm sensitive facial areas.
-
-** Exfoliate or Irritate? The Real Difference Between AHA/BHA and Menthol
-While menthol creams like tiger balm deliver a cooling sensation to soothe achy muscles,
-AHA (alpha hydroxy acid) and BHA (beta hydroxy acid) creams are skincare staples that gently exfoliate and unclog pores to treat acne.
-
-Menthol doesn't offer any benefits for acne-prone skin and can actually irritate your face, especially around sensitive areas like the eyes.
-So even though both might make your skin feel tingly, AHA/BHA acids are your complexion's friends, while menthol creams are best left for muscle relief.
-
-* 💸 When Cost Cuts Go Too Far: The Story Behind the Beauty Mishap
-Why did this miscommunication happen among the 'experts'?
-
-It's baffling how a skincare shop staffed with professionals could mistake a muscle-relaxing balm for an acne solution.
-Here are a couple of likely reasons behind this slip-up:
-
-** Cost-Driven Decisions by Senior Management
-In the pursuit of higher profits, senior management prioritizes cost reduction over quality.
-By purchasing products like the 28 SGD, 500ml tiger balm, they can reduce expenses and increase margins.
-
-#+ATTR_HTML: :width 500px :class center
-[[file:images/price2.png]]
-/Dr. Hedison's Refresh Cool Emulsion is approximately  =28.87 SGD=  for 500ml, and  =22 SGD=  for 200ml/.
-
-Sadly, many customers are blind about what's being applied to their skin, letting the 'experts' make choices for them.
-
-The thraphists on the call indeed confessed that they had been requesting to stop purchasing cheap products for long.
-But the managements didn't take into a serious condieration, which we'll talk about in the next item.
-
-** Disconnect Between Management and Therapists
-There's often a gap between those who select the products and those who use them on clients.
-The problem is that the therapists, who interact directly with customers, have little say in product selection.
-
-#+ATTR_HTML: :width 250px :class center
-[[file:images/product1.jpeg]]
-/A theraphist at the shop proudly introducing their new 'acne solution' to customers/.
-
-They are obliged to use what's provided, which can dampen their enthusiasm for ensuring customer satisfaction.
-Instead of personalizing treatments, they might end up robotically following protocols set by management.
-
-* Join our Telegram channel! ✅
-We're looking for anyone who previously had any discomfort or skin irritation after a traetment.
-Please share your experience through [[https://t.me/sgskinreport][our Telegram channel]] and seek for help!
-
-We're also working on an *Instagram* accout to share pictures of damaged skins due to the misuse of the products.
-Please make a request via Telegram for an invitation to our Instagram account.
-
+- [[file:chapter1.org][Lost in Translation: How Korea's cheap menthol-cream for a muscle rub became a viral skincare mishap]]
+- Leenayoung Aesthetic SG and LEEN Beauty Centre: Are they really a /Korean/ skin-care shop?
+  https://www.instagram.com/kbeauty_leen/
 
 
 
