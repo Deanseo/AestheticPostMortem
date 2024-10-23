@@ -1,0 +1,92 @@
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="center.css"/>
+#+HTML_HEAD: <style> #content{max-width:950px;}</style>
+#+TITLE: Dầu Hổ Hàn Quốc Bị Hiểu Nhầm Là Thuốc Trị Mụn Ở Singapore
+#+AUTHOR: David Kimbell
+#+DATE:  [2024-10-19 토]
+#+options: timestamp:nil
+#+OPTIONS: num:nil
+
+* 🤦 Napagkamalang Skincare: Paano Naging Viral na Mali ang Murang Menthol-Cream ng Korea
+Ai ngờ rằng một lỗi dịch thuật đơn giản lại dẫn đến thảm họa chăm sóc da?
+
+rong một cú twist đầy bất ngờ, một [[https://www.leenayoung.com.sg][cửa hàng thẩm mỹ nổi tiếng]] ở Singapore, Lee Na Young Aesthetic, đang gây xôn xao vì những lý do không mấy tốt đẹp.
+Cửa hàng đã nhầm lẫn quảng bá một loại [[https://search.shopping.naver.com/catalog/25254130524?cat_id=50000408&frm=NVSCPRO&query=%ED%97%A4%EB%94%94%EC%8A%A8+%EB%A6%AC%ED%94%84%EB%A0%88%EC%89%AC+%EC%BF%A8+%EC%97%90%EB%A9%80%EC%A0%84+200ml&NaPm=ct%3Dm27eduqg%7Cci%3D7064723f3fba0bc96c9c15404a276793b7f87328%7Ctr%3Dsls%7Csn%3D95694%7Chk%3D5d00c3bbc6a418036a24ea3891474b39c6849d03][dầu hổ Hàn Quốc lớn, giá rẻ]], chỉ với 23 SGD một chai, như là giải pháp trị mụn cao cấp từ Hàn Quốc.
+
+#+ATTR_HTML: :width 250px :class center
+[[file:images/entrance.png]]
+/Lee Na Young Aesthetic tại Orchard đang chào đón khách hàng/
+
+Được cho là do lỗi dịch thuật của từ 'emulsion,' dầu hổ dùng để giãn cơ đã bị hiểu nhầm là phép màu trong chăm sóc da.
+Họ không hề biết rằng sản phẩm chứa đầy menthol này hoàn toàn không phù hợp cho làn da mỏng manh trên khuôn mặt.
+
+Những khách hàng háo hức hy vọng đánh bay mụn lại gặp phải tình trạng kích ứng da nghiêm trọng.
+
+#+ATTR_HTML: :width 250px :class center
+[[file:images/face.png]]
+/Dầu xoa bóp được thiết kế để giãn cơ và có mùi hương menthol mạnh mẽ, không có tác dụng lâm sàng đối với mụn/.
+
+Thực tế, việc thoa lên mặt có thể gây hại nghiêm trọng.
+
+Khác với các sản phẩm chăm sóc da có chứa axit AHA và BHA có thể gây cảm giác bỏng rát nhẹ nhưng lại trị mụn hiệu quả, loại dầu xoa có chứa menthol này
+không mang lại lợi ích gì mà thực sự có hại cho da, chưa kể đến việc _có thể gây tổn thương vĩnh viễn_ cho mắt của bạn!
+
+* ⚠️  Nhà Sản Xuất Cảnh Báo: "Không Dùng Cho Khuôn Mặt"
+Vì sản phẩm được thiết kế đặc biệt để thư giãn cơ, nhà sản xuất cảnh báo rằng việc thoa lên da mặt có thể gây kích ứng nghiêm trọng và đỏ da.
+Nó đặc biệt nguy hiểm khi sử dụng quanh vùng mắt.
+
+#+ATTR_HTML: :width 500px :class center
+[[file:images/desc3.png]]
+/Mô tả sản phẩm khuyên khách hàng sử dụng nó để thư giãn cơ bắp của cơ thể/.
+
+Mặc dù một số phương pháp điều trị mụn có thể mang lại cảm giác 'nóng rát' tương tự do các thành phần hoạt tính như axit AHA và BHA, nhưng menthol
+không mang lại lợi ích nào cho việc điều trị mụn và có thể gây hại cho các vùng da mặt nhạy cảm.
+
+** Tẩy Tế Bào Chết Hay Gây Kích Ứng? Sự Khác Biệt Thực Sự Giữa AHA/BHA và Menthol
+Trong khi các loại kem menthol như dầu hổ mang lại cảm giác mát lạnh để xoa dịu cơ bắp mệt mỏi, thì kem AHA (alpha hydroxy acid) và BHA (beta hydroxy acid) là
+những sản phẩm chăm sóc da cơ bản giúp tẩy tế bào chết nhẹ nhàng và làm sạch lỗ chân lông để trị mụn.
+
+#+ATTR_HTML: :width 300px :class center
+[[file:images/demonstration1.png]]
+/Người quản lý thậm chí còn khuyến khích khách hàng thoa kem menthol lên mặt vì lầm tưởng rằng nó trị mụn/.
+
+Menthol không mang lại lợi ích nào cho da dễ bị mụn và thực tế có thể gây kích ứng da mặt, đặc biệt là ở những vùng nhạy cảm như quanh mắt.
+Vì vậy, mặc dù cả hai đều có thể khiến da bạn cảm thấy châm chích, nhưng axit AHA/BHA là bạn đồng hành của làn da, trong khi kem menthol nên được dùng để làm dịu cơ bắp.
+
+* 💸 Khi Cắt Giảm Chi Phí Quá Đà: Câu Chuyện Đằng Sau Sự Cố Làm Đẹp
+Tại sao sự nhầm lẫn này lại xảy ra giữa những 'chuyên gia'?
+Thật khó hiểu khi một cửa hàng chăm sóc da với đội ngũ chuyên nghiệp lại có thể nhầm lẫn một loại dầu xoa bóp cơ thành giải pháp trị mụn.
+
+Dưới đây là một vài lý do có thể lý giải sự cố này:
+
+** Quyết Định Dựa Trên Chi Phí Của Ban Quản Lý Cấp Cao
+Trong nỗ lực gia tăng lợi nhuận, ban quản lý cấp cao ưu tiên việc cắt giảm chi phí hơn là chất lượng.
+Bằng cách mua các sản phẩm như dầu hổ 500ml với giá 28 SGD, họ có thể giảm chi phí và tăng tỷ suất lợi nhuận.
+
+#+ATTR_HTML: :width 500px :class center
+[[file:images/price2.png]]
+/Dr. Hedison's Refresh Cool Emulsion có giá khoảng =28.87 SGD= cho 500ml và =22 SGD= cho 200ml/.
+
+Đáng buồn thay, nhiều khách hàng không biết rõ về những gì được thoa lên da của họ, để cho các 'chuyên gia' quyết định thay họ.
+
+Các chuyên viên trên cuộc gọi thừa nhận rằng họ đã yêu cầu ngừng mua các sản phẩm rẻ tiền trong một thời gian dài.
+Nhưng ban quản lý đã không xem xét điều này một cách nghiêm túc, và chúng ta sẽ bàn về điều này ở phần tiếp theo.
+
+** Sự Mất Kết Nối Giữa Quản Lý Và Chuyên Viên Trị Liệu
+Thường có sự chênh lệch giữa những người chọn sản phẩm và những người sử dụng chúng trên khách hàng.
+Vấn đề là các chuyên viên trị liệu, những người tương tác trực tiếp với khách hàng, ít có tiếng nói trong việc lựa chọn sản phẩm.
+
+#+ATTR_HTML: :width 250px :class center
+[[file:images/product1.jpeg]]
+/Một chuyên viên trị liệu tại cửa hàng tự hào giới thiệu 'giải pháp trị mụn' mới của họ cho khách hàng/.
+
+Họ buộc phải sử dụng những gì được cung cấp, điều này có thể làm giảm bớt sự nhiệt tình trong việc đảm bảo sự hài lòng của khách hàng.
+Thay vì cá nhân hóa liệu trình, họ có thể chỉ đơn giản làm theo các quy trình do ban quản lý đặt ra một cách máy móc.
+
+* 🏥 Phục Hồi Sau Sự Cố Dầu Hổ: Các Bước Để Khôi Phục
+Đối với tất cả những ai đã trải qua kích ứng da do sự cố không may với dầu hổ, điều quan trọng là ưu tiên sức khỏe của bạn.
+Chúng tôi khuyến nghị mạnh mẽ rằng bạn nên tham khảo ý kiến bác sĩ da liễu để nhận được lời khuyên y tế chuyên nghiệp phù hợp với tình trạng của bạn.
+
+Trong khi chờ đợi, hãy xem xét sử dụng một loại kem dưỡng ẩm dịu nhẹ, không gây dị ứng để giúp làm dịu và bảo vệ làn da của bạn.
+Hãy nhớ rằng, chăm sóc đúng cách và hướng dẫn chuyên gia là chìa khóa để phục hồi sau bất kỳ vấn đề chăm sóc da nào.
+

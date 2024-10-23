@@ -1,0 +1,95 @@
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="center.css"/>
+#+HTML_HEAD: <style> #content{max-width:950px;}</style>
+#+TITLE: Korean Tiger Balm na Napagkamalang Lunas sa Acne sa Singapore
+#+AUTHOR: David Kimbell
+#+DATE:  [2024-10-19 토]
+#+options: timestamp:nil
+#+OPTIONS: num:nil
+
+* 🤦 Napagkamalang Skincare: Paano Naging Viral na Mali ang Murang Menthol-Cream ng Korea
+Sino'ng mag-aakala na isang simpleng maling pagsasalin ang hahantong sa isang skincare na kalamidad?
+
+Sa nakakagulat na twist, ang [[https://www.leenayoung.com.sg][sikat na aesthetic shop]] sa Singapore na Lee Na Young Aesthetic, ay nagiging usap-usapan pero hindi para sa magandang dahilan.
+Mali nilang ibinida ang isang [[https://search.shopping.naver.com/catalog/25254130524?cat_id=50000408&frm=NVSCPRO&query=%ED%97%A4%EB%94%94%EC%8A%A8+%EB%A6%AC%ED%94%84%EB%A0%88%EC%89%AC+%EC%BF%A8+%EC%97%90%EB%A9%80%EC%A0%84+200ml&NaPm=ct%3Dm27eduqg%7Cci%3D7064723f3fba0bc96c9c15404a276793b7f87328%7Ctr%3Dsls%7Csn%3D95694%7Chk%3D5d00c3bbc6a418036a24ea3891474b39c6849d03][malaking bote, abot-kayang]] Korean tiger balm na nagkakahalaga lamang ng =23 SGD= bilang isang premium acne solution mula Korea
+
+#+ATTR_HTML: :width 250px :class center
+[[file:images/entrance.png]]
+/Lee Na Young Aesthetic sa Orchard ay malugod na tinatanggap ang mga customer/.
+
+Dahil umano sa maling pagsasalin ng salitang 'emulsion,' ang tiger balm na pamparelaks ng kalamnan ay napagkamalan bilang himala sa skincare.
+
+Hindi nila alam na ang produktong punung-puno ng menthol ay hindi talaga angkop para sa maselan na balat ng mukha.
+Ang mga sabik na customer na umaasang mawawala ang mga blemishes ay nauwi sa seryosong iritasyon sa balat.
+
+#+ATTR_HTML: :width 250px :class center
+[[file:images/face.png]]
+/Ang balm na idinisenyo para sa pagpaparelaks ng kalamnan at mayaman sa matapang na amoy ng menthol, ay walang klinikal na epekto sa acne./
+
+Sa katunayan, ang paglalagay nito sa mukha ay maaaring makasama.
+
+Hindi tulad ng mga skincare products na may AHA at BHA acids na maaaring magdulot ng kaunting hapdi habang epektibong ginagamot ang acne, ang menthol-infused rub na ito ay walang
+ganitong benepisyo at talagang masama para sa balat mo, bukod pa sa _maaaring magdulot ng permanenteng pinsala_ sa iyong mga mata!
+
+* ⚠️  Babala ng Manufacturer: "Hindi para sa Gamit sa Mukha"
+Dahil ang produkto ay sadyang idinisenyo para sa pagpaparelaks ng kalamnan, nagbabala ang manufacturer na ang paglalagay nito sa balat ng mukha ay maaaring magdulot ng matinding iritasyon at pamumula.
+Lalong mapanganib ito sa kalusugan kapag ginamit malapit sa mata
+
+#+ATTR_HTML: :width 500px :class center
+[[file:images/desc3.png]]
+/Ang paglalarawan ng produkto ay nagpayo sa mga customer na gamitin ito para sa pagpaparelaks ng kalamnan ng iyong katawan/.
+
+Habang ang ilang mga paggamot sa acne ay maaaring magdulot ng kaparehong ‘hapdi’ dahil sa mga aktibong sangkap tulad ng AHA at BHA acids, ang menthol mismo
+ay walang benepisyo sa paggamot ng acne at maaaring makasama sa maseselang bahagi ng mukha.
+
+** Exfoliate o Irritate? Ang Tunay na Pagkakaiba ng AHA/BHA at Menthol
+Habang ang mga menthol cream tulad ng tiger balm ay nagbibigay ng malamig na sensasyon para maibsan ang sakit ng kalamnan, ang mga AHA (alpha hydroxy acid) at BHA (beta hydroxy acid)
+creams ay pangunahing sangkap sa skincare na banayad na nag-e-exfoliate at nililinis ang mga pores para gamutin ang acne.
+
+#+ATTR_HTML: :width 300px :class center
+[[file:images/demonstration1.png]]
+/Ang manager ay hinihikayat ang mga customer na gamitin ang menthol cream sa mukha, maling akala na ito'y para sa acne/.
+
+Ang menthol ay walang benepisyo para sa balat na may acne at maaari pang magdulot ng iritasyon sa mukha, lalo na sa maseselang bahagi tulad ng mga mata.
+Kaya kahit pareho silang maaaring magdulot ng pakiramdam na parang may kirot sa balat, ang AHA/BHA acids ay kaibigan ng iyong balat, habang ang menthol
+creams ay mas angkop para sa pagpaparelaks ng kalamnan
+
+* 💸 Kapag Napasobra ang Pagtipid: Ang Kwento sa Likod ng Beauty Mishap
+Bakit nangyari ang miscommunication na ito sa mga 'eksperto'?
+Nakakagulat kung paano nagkamali ang isang skincare shop na puno ng mga propesyonal sa pag-aakala na ang isang balm na pamparelaks ng kalamnan ay isang solusyon sa acne.
+
+Narito ang ilang posibleng dahilan sa likod ng pagkakamaling ito:
+
+** Mga Desisyon Batay sa Gastos ng Senior Management
+Sa hangarin na makakuha ng mas mataas na kita, inuuna ng senior management ang pagbawas ng gastos kaysa sa kalidad.
+Sa pamamagitan ng pagbili ng mga produkto tulad ng 28 SGD, 500ml tiger balm, maaari nilang bawasan ang mga gastusin at pataasin ang kita.
+
+#+ATTR_HTML: :width 500px :class center
+[[file:images/price2.png]]
+/Ang Dr. Hedison's Refresh Cool Emulsion ay humigit-kumulang =28.87 SGD= para sa 500ml, at =22 SGD= para sa 200ml/.
+
+Nakakalungkot, maraming customer ang hindi alam kung ano ang ipinapahid sa kanilang balat, hinahayaan ang mga 'eksperto' na magdesisyon para sa kanila.
+Ang mga therapist sa tawag ay aminadong matagal na nilang hinihiling na itigil ang pagbili ng murang produkto.
+
+Ngunit hindi ito sineseryoso ng pamunuan, na tatalakayin natin sa susunod na bahagi.
+
+** Diskonekta sa Pagitan ng Pamunuan at mga Therapist
+Madalas may agwat sa pagitan ng mga pumipili ng mga produkto at ng mga gumagamit ng mga ito sa mga kliyente.
+Ang problema ay ang mga therapist, na direktang nakikipag-ugnayan sa mga customer, ay halos walang boses sa pagpili ng produkto.
+
+#+ATTR_HTML: :width 250px :class center
+[[file:images/product1.jpeg]]
+/Isang therapist sa shop na buong pagmamalaking ipinapakilala ang kanilang bagong 'solusyon sa acne' sa mga customer/.
+
+Obligado silang gamitin kung ano ang ibinibigay, na maaaring makabawas sa kanilang sigasig na tiyakin ang kasiyahan ng customer.
+Sa halip na i-personalize ang mga treatment, maaari silang magtapos sa parang robot na sumusunod lamang sa mga protocol na itinakda ng pamunuan.
+
+* 🏥 Pagpapagaling Matapos ang Tiger Balm Mishap: Mga Hakbang sa Paggaling
+Para sa lahat ng nakaranas ng iritasyon sa balat mula sa hindi inaasahang insidente ng tiger balm, mahalaga na unahin ang iyong kalusugan.
+Mahigpit naming inirerekomenda ang pagkonsulta sa dermatologist upang makakuha ng propesyonal na payong medikal na naaangkop sa iyong sitwasyon.
+
+Samantala, isaalang-alang ang paggamit ng banayad at hypoallergenic na moisturizing cream upang makatulong na mapakalma at maprotektahan ang iyong balat.
+Tandaan, ang tamang pag-aalaga at gabay ng eksperto ay susi sa paggaling mula sa anumang skincare setbacks.
+
+
+

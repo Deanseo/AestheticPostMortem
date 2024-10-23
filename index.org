@@ -1,17 +1,45 @@
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 #+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="center.css"/>
 #+HTML_HEAD: <style> #content{max-width:950px;}</style>
-#+TITLE: Draft
+#+TITLE: Lee Na Young Aesthetic Post-Mortem Articles
 #+AUTHOR: David Kimbell
-#+DATE:  [2024-10-19 토]
+#+DATE:  [2024-10-21 Mon]
 #+options: timestamp:nil
 #+OPTIONS: num:nil
 
-* Hello
+#+ATTR_HTML: :width 250px :class center
+[[file:images/entrance.png]]
 
-- [[file:chapter1.org][Lost in Translation: How Korea's cheap menthol-cream for a muscle rub became a viral skincare mishap]]
-- Leenayoung Aesthetic SG and LEEN Beauty Centre: Are they really a /Korean/ skin-care shop?
-  https://www.instagram.com/kbeauty_leen/
+* Introduction
+Have you ever left a facial feeling more "uh-oh" than "aha"?
 
+We've all trusted the experts with our skin, but what happens when that trust leads to trouble?
+By introducing a story where a muscle relaxation tiger balm is /mistakenly/ used as an acne solution, we're uncovering Lee Na Young Aesthetic SG's mishaps that
+have left customers without proper recourse.
+
+We invite all victims of such treatments to unite, share their experiences, and help find the supports they've been missing.
+
+* 🕮 Chapters 1
+- [[file:chapter1-en.org][Lost in Translation: How Korea's cheap menthol-cream for a muscle rub became a viral skincare mishap]]
+- [[file:chapter1-vn.org][Lạc Lối Trong Dưỡng Da: Khi Kem Menthol Rẻ Tiền của Hàn Quốc Gây Sự Cố Skincare]]
+- [[file:chapter1-tagalog.org][Napagkamalang Skincare: Paano Naging Viral na Mali ang Murang Menthol-Cream ng Korea]]
+- เรื่องพลาดจากครีมเมนทอลถูกๆ ของเกาหลี กลายเป็นไวรัลเพราะใช้ผิดวิธี (wip)
+- 스킨케어 대참사: 유통기한 만료된 싸구려 멘솔 파스를 여드름 솔루션으로 둔갑시키서 매상올리는 방법 (wip)
+  
+* 🕮 Chapters 2
+- [[https://www.drhedison.co.kr/][Dr. Hedison]]'s response to this baffling situation (wip)
+
+* 🕮 Chapters 3
+- Leenayoung Aesthetic SG and [[https://www.instagram.com/kbeauty_leen/][LEEN Beauty Centre]]: what's up with the hypes with /Korean/ skin-care shops? (wip)
+
+* Join our Telegram channel! ✅
+We're looking for anyone who previously had any discomfort or skin irritation after a traetment.
+Please share your experience through [[https://t.me/sgskinreport][our Telegram channel]] and seek for help!
+
+We're also working on an *Instagram* accout to share pictures of damaged skins due to the misuse of the products.
+Please make a request via Telegram for an invitation to our Instagram account.
+
+* We're looking for "Beauty Youtubers"! 🔎
+Please contact us via our channel for collobration!
 
 
